@@ -1,0 +1,16 @@
+#my-text {
+    width: 685px;
+    height: 300px;
+    background-color: rgb(255 255 255);
+    padding: 8px 12px;
+    border-left: 4px solid rgb(76 175 80);
+    word-wrap: break-word;
+}
+
+button {
+    background: #FFA07A;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+}
